@@ -2,7 +2,7 @@ GECA
 ===========
 
 Examples of valid answers: <br>
-![](./img/query1.png)
+![](./img/geca-1.png)
 
 Ask this RAG LLM chatbot anything about Electric Vehicle charging points: where to charge how much, at what time etc.
 
